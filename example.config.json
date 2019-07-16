@@ -1,0 +1,6 @@
+{
+    "axiosTimeout": 10000,
+    "spotifyClientId": "",
+    "spotifyClientSecret": "",
+    "musixmatchApiKey": ""
+}
