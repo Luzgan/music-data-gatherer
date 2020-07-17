@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "csv-write-stream": "^2.0.0",
     "fast-csv": "^3.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "node-html-parser": "^1.1.16",
     "query-string": "^6.8.1"
   }
